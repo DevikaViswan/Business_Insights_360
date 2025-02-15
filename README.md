@@ -30,7 +30,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 - Implemented **Snowflake Schema** for optimized data modeling
 - Ensured correct table relationships for **accurate analysis**
 
-![Data Modeling](https://github.com/mk-ghosh-25/Business-Insights-360_AtliQ-Hardware/blob/main/d-modeling.png?raw=true)
+![Data Modeling](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Datamodel%20image.png)
 
 ---
 
