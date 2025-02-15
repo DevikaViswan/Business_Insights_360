@@ -106,13 +106,13 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ---
 
 ## 📌 Recommendations
-✅ Optimize **operational expenses** to minimize losses during expansion
-✅ **Leverage festive seasons** with promotional campaigns to boost sales
-✅ Enhance **discount strategies** for better customer engagement
-✅ **Expand customer base in South Korea** *(no new customers in the last 4 years)*
-✅ Improve **inventory management** to reduce risks like stockouts & excess inventory
-✅ Conduct **LATAM region consumer surveys** for better market penetration
-✅ Involve **cross-functional teams** for improved demand forecasting
+* Optimize **operational expenses** to minimize losses during expansion
+* **Leverage festive seasons** with promotional campaigns to boost sales
+* Enhance **discount strategies** for better customer engagement
+* **Expand customer base in South Korea** *(no new customers in the last 4 years)*
+* Improve **inventory management** to reduce risks like stockouts & excess inventory
+* Conduct **LATAM region consumer surveys** for better market penetration
+* Involve **cross-functional teams** for improved demand forecasting
 
 ---
 
