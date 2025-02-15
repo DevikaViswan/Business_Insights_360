@@ -92,16 +92,16 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ### **Supply Chain**
 - **80% Forecast Accuracy**, but **stockouts & excess inventory** impact profitability
 
-### **Products**
-- **Top revenue markets**: India, USA, South Korea, UK, Canada
-- **AQ 5000 Series Electron 8 5900X** has the **highest Gross Margin %**
-
 ### **Executive Insights**
 - **Retailer Channel & PCs Division** drive the highest revenue
 - **Top 5 customers** contribute **38.7% revenue** (Amazon leads with **13.6%**)
 - **AtliQ’s Market Share** increased to **5.9% in FY 2022**
 - **North America** contributes **26% of total revenue**
 - **South Europe** shows the **highest market share growth (6.6%)**
+
+### **Products**
+- **Top revenue markets**: Australia, Canada, Italy, Spain, USA
+- **AQ 5000 Series Electron 8 5900X** has the **highest Gross Margin %**
 
 ---
 
