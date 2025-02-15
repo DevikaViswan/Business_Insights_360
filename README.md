@@ -125,6 +125,6 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ---
 
 ## 🏆 Conclusion
-The *Business Insights 360* project delivers an intuitive, data-driven, and user-friendly dashboard. It empowers AtliQ Hardware with **strategic decision-making capabilities** by providing deep insights into financial, sales, marketing, supply chain, product, and executive data.
+The *Business Insights 360* project delivers an intuitive, data-driven, user-friendly dashboard. It empowers AtliQ Hardware with **strategic decision-making capabilities** by providing deep insights into financial, sales, marketing, supply chain, product, and executive data.
 
 This **optimized Power BI dashboard** ensures **seamless user experience, insightful analytics, and real-time data visibility** for informed business decisions.
