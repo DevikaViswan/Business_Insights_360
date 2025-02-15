@@ -50,11 +50,12 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ### 📦 **Supply Chain View** *(Operations & supply chain optimization)*
 ![Supply Chain Dashboard](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Supply%20Chain%20View%20image.png)
 
+### 🎯 **Executive View** *(Historical metrics tailored for executives)*
+![Executive Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4114838b-8b65-467a-b6b1-83f9bc6772a3.png)
+
 ### 🏷️ **Products View** *(Key product and customer insights)*
 ![Products Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/2967e1fc-d93c-4f59-934a-efc91d136f13.png)
 
-### 🎯 **Executive View** *(Historical metrics tailored for executives)*
-![Executive Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4114838b-8b65-467a-b6b1-83f9bc6772a3.png)
 
 🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
