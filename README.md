@@ -48,7 +48,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ![Marketing Dashboard](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Marketing%20View%20image.png)
 
 ### 📦 **Supply Chain View** *(Operations & supply chain optimization)*
-![Supply Chain Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/a699e665-dae5-4672-a0be-3552f0205f09.png)
+![Supply Chain Dashboard](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Supply%20Chain%20View%20image.png)
 
 ### 🏷️ **Products View** *(Key product and customer insights)*
 ![Products Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/2967e1fc-d93c-4f59-934a-efc91d136f13.png)
