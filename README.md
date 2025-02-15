@@ -57,7 +57,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ![Products Dashboard](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Products%20View%20image.png)
 
 
-🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+🔗 **[View Live Dashboard](https://app.powerbi.com/groups/51a4e337-2970-43db-9170-06b714cf13f3/reports/d106c76b-1052-4645-afab-58c1a8996981/ReportSection0e765c0061580b067c73?experience=power-bi)**
 
 ---
 
