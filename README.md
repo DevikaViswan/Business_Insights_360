@@ -39,7 +39,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ![Home Page](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Home%20image.png)
 
 ### 💰 **Finance View** *(Analysis of key financial metrics)*
-![Finance Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/36ce93ee-6fce-4a3b-b46d-2e38fbf6c04a.png)
+![Finance Dashboard](https://github.com/DevikaViswan/Business_Insights_360/blob/main/Finance%20View%20image.png)
 
 ### 📈 **Sales View** *(Performance insights across different sales channels)*
 ![Sales Dashboard](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/746cb5be-206d-4cf5-b544-48f28658016c.png)
